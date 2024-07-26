@@ -1,2 +1,2 @@
 # CODSOFT
-Author - Kasturi Sabale
+Kasturi Sabale
