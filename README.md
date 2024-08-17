@@ -1,6 +1,6 @@
 # CODSOFT
 Kasturi Sabale
 
-task 1 :- To Do List
-task 2 :- Simple calculator
-task 3 :- Password generator
+Task 1 :- To Do List /n
+Task 2 :- Simple calculator /n
+Task 3 :- Password generator
